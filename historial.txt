@@ -1,0 +1,23 @@
+    1  do-release-upgrade
+    2  ls
+    3  ls -l
+    4  ls -la
+    5  man
+    6  man ls
+    7  ls
+    8  man ls
+    9  pwd
+   10  whoami
+   11  echo "hola"
+   12  ls
+   13  cat README 
+   14  cd repogit/
+   15  ls
+   16  git clone 
+   17  vagrant@VMPruebas:~/repogit$ git clone https://github.com/Aportillo2/Repo_Portillo.git
+   18  git clone https://github.com/Aportillo2/Repo_Portillo.git
+   19  ls
+   20  cd Repo_Portillo/
+   21  ls
+   22  history
+   23  history > historial.txt
